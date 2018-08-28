@@ -1,0 +1,17 @@
+{
+  "name": "greenhance_nodeapi",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sasmita Pradhan <spradhan@healthgrades.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sasmitapradhan/API",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
